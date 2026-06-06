@@ -1,5 +1,6 @@
 # AmmiArtStudio.github.io
 Art Studio 
+Ammi Art Studio - a space where new worlds bloom
 
 #hellol every nyann!
 
